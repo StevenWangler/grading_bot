@@ -2,10 +2,10 @@
 The general_functions file handles basic functions and
 actions for the app
 '''
-
 import datetime
 import logging
 import os
+
 
 def configure_logging():
     '''
@@ -19,11 +19,27 @@ def configure_logging():
 
 def write_results_to_file(grade_response):
     '''
-    This file writes the given prediction to a text file as a record
+    This function writes the given prediction to a text file as a record
     '''
     logging.info('Writing grades to a file...')
-    file_path = os.path.join('settings', 'grading_results.txt')
-    with open(file_path, "a", encoding="utf-8") as file:
+
+    # Detecting the operating system and setting the downloads folder path accordingly
+    if os.name == 'nt':  # Windows
+        downloads_folder = os.path.join(os.path.expanduser('~'), 'Downloads')
+    elif os.uname().sysname == 'Darwin':  # macOS
+        downloads_folder = os.path.join(os.path.expanduser('~'), 'Downloads')
+    else:  # Linux and other UNIX-like OS
+        downloads_folder = os.path.join(os.path.expanduser('~'), 'Downloads')
+    
+    # Create the "Grading Results" folder inside the Downloads folder if it doesn't exist
+    grading_results_folder = os.path.join(downloads_folder, 'Grading Results')
+    if not os.path.exists(grading_results_folder):
+        os.makedirs(grading_results_folder)
+    
+    # Set the file path within the "Grading Results" folder
+    file_path = os.path.join(grading_results_folder, 'grading_results.txt')
+
+    with open(file_path, "w", encoding="utf-8") as file:
         file.write(f'{grade_response}\n')
 
 
@@ -32,8 +48,8 @@ def combine_contents_into_message(grading_criteria, assignment_content):
     Combine the contents of two strings and format the message.
 
     Args:
-    - content1 (str): Content of the first string.
-    - content2 (str): Content of the second string.
+    - grading_criteria (str): Content of the first string.
+    - assignment_content (str): Content of the second string.
 
     Returns:
     - list: A list containing a dictionary with the combined and formatted message.
