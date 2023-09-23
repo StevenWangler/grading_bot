@@ -11,41 +11,24 @@ def configure_logging():
     '''
     This method configures our log file
     '''
-    log_file_path = os.path.join('settings', 'application_log.log')
-    logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
-    current_time = datetime.datetime.now()
-    logging.info('---- APPLICATION START (current date/time is: %s) ----', current_time)
-
-
-def write_results_to_file(grade_response, student_name, first_run):
-    '''
-    This function writes the given prediction to a text file as a record
-    '''
     try:
-        logging.info('Writing grades to a file...')
-        
-        # Detecting the operating system and setting the downloads folder path accordingly
-        downloads_folder = os.path.join(os.path.expanduser('~'), 'Downloads')
-    
-        # Create the "Grading Results" folder inside the Downloads folder if it doesn't exist
-        grading_results_folder = os.path.join(downloads_folder, 'Grading Results')
-        if not os.path.exists(grading_results_folder):
-            os.makedirs(grading_results_folder)
-        
-        # Set the file path within the "Grading Results" folder
-        file_path = os.path.join(grading_results_folder, 'grading_results.txt')
+        log_dir = 'settings'
+        log_file = 'application_log.log'
 
-        # Delete the existing file if first_run is True
-        if first_run and os.path.exists(file_path):
-            logging.info('Deleting prior grading file')
-            os.remove(file_path)
+        # Create the log directory if it doesn't exist
+        if not os.path.exists(log_dir):
+            os.makedirs(log_dir)
 
-        with open(file_path, "a", encoding="utf-8") as file:
-            # Adding two new lines for separation, the student's name, and their grade
-            file.write(f'\n\nStudent: {student_name}\nGrade: {grade_response}')
+        log_file_path = os.path.join(log_dir, log_file)
 
+        logging.basicConfig(filename=log_file_path, 
+                            level=logging.INFO, 
+                            format='%(asctime)s:%(levelname)s:%(message)s')
+
+        current_time = datetime.datetime.now()
+        logging.info('---- APPLICATION START (current date/time is: %s) ----', current_time)
     except Exception as ex:
-        logging.error(f"An error occurred while writing to the file: {ex}")
+        print(f"An error occurred while configuring logging: {ex}")
 
 
 def combine_contents_into_message(grading_criteria, assignment_content):

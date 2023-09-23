@@ -1,2 +1,5 @@
 app_secrets.py
 application_log.log
+main.spec
+build/
+dist/
