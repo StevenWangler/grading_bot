@@ -1,123 +1,28 @@
-2023-09-19 22:47:57,017:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:47:57.017354) ----
-2023-09-19 22:47:57,017:INFO:Main method executing
-2023-09-19 22:47:57,229:INFO:Select the assignments folder...
-2023-09-19 22:48:14,818:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:48:14,819:INFO:Select the grading criteria text file...
-2023-09-19 22:48:21,396:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:48:21,396:INFO:Creating chat message for open ai
-2023-09-19 22:48:21,397:INFO:Generating the chat completion message
-2023-09-19 22:48:25,872:INFO:Returning the completed message
-2023-09-19 22:48:25,874:INFO:Writing grades to a file...
-2023-09-19 22:48:25,874:INFO:Graded HelloWorld.py
-2023-09-19 22:48:25,874:INFO:Grading completed! Check for results.
-2023-09-19 22:54:14,745:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:54:14.745461) ----
-2023-09-19 22:54:14,745:INFO:Main method executing
-2023-09-19 22:54:14,942:INFO:Select the assignments folder...
-2023-09-19 22:54:22,644:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:54:22,644:INFO:Select the grading criteria text file...
-2023-09-19 22:54:30,925:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:54:30,926:INFO:Creating chat message for open ai
-2023-09-19 22:54:30,926:INFO:Generating the chat completion message
-2023-09-19 22:54:34,239:INFO:Returning the completed message
-2023-09-19 22:54:34,239:INFO:Writing grades to a file...
-2023-09-19 22:54:34,240:INFO:Graded HelloWorld.py
-2023-09-19 22:54:34,240:INFO:Grading completed! Check for results.
-2023-09-19 22:55:34,609:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:55:34.609385) ----
-2023-09-19 22:55:34,609:INFO:Main method executing
-2023-09-19 22:55:34,771:INFO:Select the assignments folder...
-2023-09-19 22:55:40,280:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:55:40,280:INFO:Select the grading criteria text file...
-2023-09-19 22:55:45,675:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:55:45,676:INFO:Creating chat message for open ai
-2023-09-19 22:55:45,676:INFO:Generating the chat completion message
-2023-09-19 22:55:49,511:INFO:Returning the completed message
-2023-09-19 22:55:49,511:INFO:Writing grades to a file...
-2023-09-19 22:55:49,512:INFO:Graded HelloWorld.py
-2023-09-19 22:55:49,512:INFO:Grading completed! Check for results.
-2023-09-19 22:56:07,471:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:56:07.471765) ----
-2023-09-19 22:56:07,471:INFO:Main method executing
-2023-09-19 22:56:07,646:INFO:Select the assignments folder...
-2023-09-19 22:56:13,625:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:56:13,626:INFO:Select the grading criteria text file...
-2023-09-19 22:56:24,665:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:56:24,666:INFO:Creating chat message for open ai
-2023-09-19 22:56:24,666:INFO:Generating the chat completion message
-2023-09-19 22:56:28,087:INFO:Returning the completed message
-2023-09-19 22:56:28,087:INFO:Writing grades to a file...
-2023-09-19 22:56:28,089:INFO:Graded HelloWorld.py
-2023-09-19 22:56:28,089:INFO:Grading completed! Check for results.
-2023-09-19 22:58:28,538:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:58:28.538280) ----
-2023-09-19 22:58:28,538:INFO:Main method executing
-2023-09-19 22:58:28,722:INFO:Select the assignments folder...
-2023-09-19 22:58:34,402:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:58:34,402:INFO:Select the grading criteria text file...
-2023-09-19 22:58:42,616:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:58:42,617:INFO:Creating chat message for open ai
-2023-09-19 22:58:42,617:INFO:Generating the chat completion message
-2023-09-19 22:58:45,778:INFO:Returning the completed message
-2023-09-19 22:58:45,778:INFO:Writing grades to a file...
-2023-09-19 22:58:45,781:INFO:Graded HelloWorld.py
-2023-09-19 22:58:45,781:INFO:Grading completed! Check downloads folder for results.
-2023-09-19 22:59:21,992:INFO:---- APPLICATION START (current date/time is: 2023-09-19 22:59:21.992392) ----
-2023-09-19 22:59:21,992:INFO:Main method executing
-2023-09-19 22:59:22,186:INFO:Select the assignments folder...
-2023-09-19 22:59:32,127:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 22:59:32,127:INFO:Select the grading criteria text file...
-2023-09-19 22:59:37,034:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 22:59:37,035:INFO:Creating chat message for open ai
-2023-09-19 22:59:37,035:INFO:Generating the chat completion message
-2023-09-19 22:59:41,757:INFO:Returning the completed message
-2023-09-19 22:59:41,757:INFO:Writing grades to a file...
-2023-09-19 22:59:41,760:INFO:Graded HelloWorld.py
-2023-09-19 22:59:43,353:INFO:Grading completed! Check downloads folder for results.
-2023-09-19 23:00:06,553:INFO:---- APPLICATION START (current date/time is: 2023-09-19 23:00:06.553097) ----
-2023-09-19 23:00:06,553:INFO:Main method executing
-2023-09-19 23:00:06,757:INFO:Select the assignments folder...
-2023-09-19 23:00:21,911:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 23:00:21,911:INFO:Select the grading criteria text file...
-2023-09-19 23:00:27,996:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 23:00:27,997:INFO:Creating chat message for open ai
-2023-09-19 23:00:27,997:INFO:Generating the chat completion message
-2023-09-19 23:00:31,897:INFO:Returning the completed message
-2023-09-19 23:00:31,898:INFO:Writing grades to a file...
-2023-09-19 23:00:31,900:INFO:Graded HelloWorld.py
-2023-09-19 23:00:33,679:INFO:Grading completed! Check downloads folder for results.
-2023-09-19 23:01:49,668:INFO:---- APPLICATION START (current date/time is: 2023-09-19 23:01:49.668777) ----
-2023-09-19 23:01:49,668:INFO:Main method executing
-2023-09-19 23:01:49,875:INFO:Select the assignments folder...
-2023-09-19 23:02:00,765:INFO:---- APPLICATION START (current date/time is: 2023-09-19 23:02:00.765942) ----
-2023-09-19 23:02:00,766:INFO:Main method executing
-2023-09-19 23:02:00,935:INFO:Select the assignments folder...
-2023-09-19 23:02:08,644:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 23:02:08,645:INFO:Select the grading criteria text file...
-2023-09-19 23:02:13,072:INFO:Selected file: /Users/steven/Downloads/grading criteria/grading_test.txt
-2023-09-19 23:02:13,073:INFO:Creating chat message for open ai
-2023-09-19 23:02:13,073:INFO:Generating the chat completion message
-2023-09-19 23:02:16,776:INFO:Returning the completed message
-2023-09-19 23:02:16,776:INFO:Writing grades to a file...
-2023-09-19 23:02:16,777:INFO:Graded HelloWorld.py
-2023-09-19 23:02:45,188:INFO:Grading completed! Check downloads folder for results.
-2023-09-19 23:07:41,306:INFO:---- APPLICATION START (current date/time is: 2023-09-19 23:07:41.306082) ----
-2023-09-19 23:07:41,306:INFO:Main method executing
-2023-09-19 23:07:41,494:INFO:Select the assignments folder...
-2023-09-19 23:07:48,300:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 23:07:48,300:INFO:Select the grading criteria text file...
-2023-09-19 23:08:01,057:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS116_Grading_Criteria.txt
-2023-09-19 23:08:01,058:INFO:Creating chat message for open ai
-2023-09-19 23:08:01,058:INFO:Generating the chat completion message
-2023-09-19 23:08:03,873:INFO:Returning the completed message
-2023-09-19 23:08:03,873:INFO:Writing grades to a file...
-2023-09-19 23:08:03,875:INFO:Graded HelloWorld.py
-2023-09-19 23:08:06,798:INFO:Grading completed! Check downloads folder for results.
-2023-09-19 23:09:46,927:INFO:---- APPLICATION START (current date/time is: 2023-09-19 23:09:46.927978) ----
-2023-09-19 23:09:46,928:INFO:Main method executing
-2023-09-19 23:09:47,115:INFO:Select the assignments folder...
-2023-09-19 23:09:54,875:INFO:Selected folder: /Users/steven/Downloads/assignments
-2023-09-19 23:09:54,875:INFO:Select the grading criteria text file...
-2023-09-19 23:10:05,921:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS116_Grading_Criteria.txt
-2023-09-19 23:10:05,921:INFO:Creating chat message for open ai
-2023-09-19 23:10:05,921:INFO:Generating the chat completion message
-2023-09-19 23:10:08,575:INFO:Returning the completed message
-2023-09-19 23:10:08,575:INFO:Writing grades to a file...
-2023-09-19 23:10:08,577:INFO:Graded HelloWorld.py
-2023-09-19 23:10:13,837:INFO:Grading completed! Check downloads folder for results.
+2023-09-23 12:04:41,446:INFO:---- APPLICATION START (current date/time is: 2023-09-23 12:04:41.446846) ----
+2023-09-23 12:04:41,446:INFO:Main method executing
+2023-09-23 12:04:41,624:INFO:Select the assignments folder...
+2023-09-23 12:04:49,675:INFO:Selected folder: /Users/steven/Downloads/assignments
+2023-09-23 12:04:49,675:INFO:Select the grading criteria text file...
+2023-09-23 12:04:57,886:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS116_Grading_Criteria.txt
+2023-09-23 12:04:57,887:INFO:Creating chat message for open ai
+2023-09-23 12:04:57,888:INFO:Generating the chat completion message
+2023-09-23 12:05:00,170:INFO:Returning the completed message
+2023-09-23 12:05:00,171:INFO:Writing grades to a file...
+2023-09-23 12:05:00,172:INFO:Deleting prior grading file
+2023-09-23 12:05:00,173:INFO:Graded HelloWorld.Py for Gru Minion
+2023-09-23 12:05:00,173:INFO:Creating chat message for open ai
+2023-09-23 12:05:00,173:INFO:Generating the chat completion message
+2023-09-23 12:05:04,061:INFO:Returning the completed message
+2023-09-23 12:05:04,061:INFO:Writing grades to a file...
+2023-09-23 12:05:04,061:INFO:Graded HelloWorld.Py for Katie Tester
+2023-09-23 12:05:04,062:INFO:Creating chat message for open ai
+2023-09-23 12:05:04,063:INFO:Generating the chat completion message
+2023-09-23 12:05:10,161:INFO:Returning the completed message
+2023-09-23 12:05:10,163:INFO:Writing grades to a file...
+2023-09-23 12:05:10,163:INFO:Graded Hello world.py for Bob Evans
+2023-09-23 12:05:10,164:INFO:Creating chat message for open ai
+2023-09-23 12:05:10,164:INFO:Generating the chat completion message
+2023-09-23 12:05:14,002:INFO:Returning the completed message
+2023-09-23 12:05:14,002:INFO:Writing grades to a file...
+2023-09-23 12:05:14,003:INFO:Graded HelloWorld.Py for Steven Wangler
+2023-09-23 12:05:16,873:INFO:Grading completed! Check downloads folder for results.
