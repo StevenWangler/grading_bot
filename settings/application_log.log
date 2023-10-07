@@ -1,391 +1,60 @@
-2023-09-23 17:26:41,220:INFO:---- APPLICATION START (current date/time is: 2023-09-23 17:26:41.220873) ----
-2023-09-23 17:26:41,221:INFO:Main method executing
-2023-09-23 17:26:54,779:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
-2023-09-23 17:27:04,054:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/CIS_116_Week_4_Criteria.txt
-2023-09-23 17:27:04,056:WARNING:Skipping file .DS_Store for David VanderKolk as it's not a recognized text file.
-2023-09-23 17:27:04,056:INFO:Creating chat message for open ai
-2023-09-23 17:27:04,056:INFO:Generating the chat completion message
-2023-09-23 17:27:07,147:INFO:Returning the completed message
-2023-09-23 17:27:07,147:INFO:Writing grades to a file...
-2023-09-23 17:27:07,148:INFO:Graded MagicEightBall.py for David VanderKolk
-2023-09-23 17:27:07,149:WARNING:Skipping file .DS_Store for Garrett Dunahee as it's not a recognized text file.
-2023-09-23 17:27:07,149:WARNING:Skipping file Magic eight ball for Garrett Dunahee as it's not a recognized text file.
-2023-09-23 17:27:07,150:WARNING:Skipping file .DS_Store for Zoe Sierra as it's not a recognized text file.
-2023-09-23 17:27:07,150:INFO:Creating chat message for open ai
-2023-09-23 17:27:07,150:INFO:Generating the chat completion message
-2023-09-23 17:27:12,881:INFO:Returning the completed message
-2023-09-23 17:27:12,882:INFO:Writing grades to a file...
-2023-09-23 17:27:12,883:INFO:Graded MagicEightBall.py for Zoe Sierra
-2023-09-23 17:27:12,883:WARNING:Skipping file .DS_Store for Emily Tran as it's not a recognized text file.
-2023-09-23 17:27:12,884:INFO:Creating chat message for open ai
-2023-09-23 17:27:12,884:INFO:Generating the chat completion message
-2023-09-23 17:27:19,658:INFO:Returning the completed message
-2023-09-23 17:27:19,659:INFO:Writing grades to a file...
-2023-09-23 17:27:19,659:INFO:Graded MagicEightBall.py for Emily Tran
-2023-09-23 17:27:19,660:WARNING:Skipping file .DS_Store for Miguel Secundino as it's not a recognized text file.
-2023-09-23 17:27:19,660:INFO:Creating chat message for open ai
-2023-09-23 17:27:19,660:INFO:Generating the chat completion message
-2023-09-23 17:27:24,733:INFO:Returning the completed message
-2023-09-23 17:27:24,734:INFO:Writing grades to a file...
-2023-09-23 17:27:24,734:INFO:Graded MagicEightBall.py for Miguel Secundino
-2023-09-23 17:27:24,735:WARNING:Skipping file .DS_Store for Gavin Devries as it's not a recognized text file.
-2023-09-23 17:27:24,735:INFO:Creating chat message for open ai
-2023-09-23 17:27:24,735:INFO:Generating the chat completion message
-2023-09-23 17:27:28,494:INFO:Returning the completed message
-2023-09-23 17:27:28,494:INFO:Writing grades to a file...
-2023-09-23 17:27:28,495:INFO:Graded MagicEightBall.py for Gavin Devries
-2023-09-23 17:27:28,495:WARNING:Skipping file .DS_Store for Alan Angelino as it's not a recognized text file.
-2023-09-23 17:27:28,496:INFO:Creating chat message for open ai
-2023-09-23 17:27:28,496:INFO:Generating the chat completion message
-2023-09-23 17:27:32,337:INFO:Returning the completed message
-2023-09-23 17:27:32,337:INFO:Writing grades to a file...
-2023-09-23 17:27:32,337:INFO:Graded MagicEightball.py for Alan Angelino
-2023-09-23 17:27:32,338:WARNING:Skipping file .DS_Store for Paul Fassett as it's not a recognized text file.
-2023-09-23 17:27:32,339:INFO:Creating chat message for open ai
-2023-09-23 17:27:32,339:INFO:Generating the chat completion message
-2023-09-23 17:27:37,163:INFO:Returning the completed message
-2023-09-23 17:27:37,163:INFO:Writing grades to a file...
-2023-09-23 17:27:37,164:INFO:Graded MagicEightBall.py for Paul Fassett
-2023-09-23 17:27:37,165:WARNING:Skipping file .DS_Store for Ivan Blehinger as it's not a recognized text file.
-2023-09-23 17:27:37,165:INFO:Creating chat message for open ai
-2023-09-23 17:27:37,165:INFO:Generating the chat completion message
-2023-09-23 17:27:41,137:INFO:Returning the completed message
-2023-09-23 17:27:41,139:INFO:Writing grades to a file...
-2023-09-23 17:27:41,139:INFO:Graded magicalmeatball.py for Ivan Blehinger
-2023-09-23 17:27:41,140:WARNING:Skipping file .DS_Store for Kennedy Hamlet as it's not a recognized text file.
-2023-09-23 17:27:41,141:INFO:Creating chat message for open ai
-2023-09-23 17:27:41,141:INFO:Generating the chat completion message
-2023-09-23 17:27:45,423:INFO:Returning the completed message
-2023-09-23 17:27:45,423:INFO:Writing grades to a file...
-2023-09-23 17:27:45,424:INFO:Graded MagicEightBall.py for Kennedy Hamlet
-2023-09-23 17:27:45,425:WARNING:Skipping file .DS_Store for Mo Mohamedkheer as it's not a recognized text file.
-2023-09-23 17:27:45,425:INFO:Creating chat message for open ai
-2023-09-23 17:27:45,426:INFO:Generating the chat completion message
-2023-09-23 17:27:51,142:INFO:Returning the completed message
-2023-09-23 17:27:51,143:INFO:Writing grades to a file...
-2023-09-23 17:27:51,143:INFO:Graded MagicEightBall.py for Mo Mohamedkheer
-2023-09-23 17:27:51,144:WARNING:Skipping file .DS_Store for Jack Darter as it's not a recognized text file.
-2023-09-23 17:27:51,145:INFO:Creating chat message for open ai
-2023-09-23 17:27:51,145:INFO:Generating the chat completion message
-2023-09-23 17:27:54,673:INFO:Returning the completed message
-2023-09-23 17:27:54,673:INFO:Writing grades to a file...
-2023-09-23 17:27:54,674:INFO:Graded week4.py for Jack Darter
-2023-09-23 17:27:54,675:WARNING:Skipping file .DS_Store for Quentin Johnson as it's not a recognized text file.
-2023-09-23 17:27:54,675:INFO:Creating chat message for open ai
-2023-09-23 17:27:54,676:INFO:Generating the chat completion message
-2023-09-23 17:27:59,202:INFO:Returning the completed message
-2023-09-23 17:27:59,203:INFO:Writing grades to a file...
-2023-09-23 17:27:59,204:INFO:Graded MagicEightBall.py for Quentin Johnson
-2023-09-23 17:27:59,205:WARNING:Skipping file .DS_Store for Josiah Gleason as it's not a recognized text file.
-2023-09-23 17:27:59,205:INFO:Creating chat message for open ai
-2023-09-23 17:27:59,205:INFO:Generating the chat completion message
-2023-09-23 17:28:04,812:INFO:Returning the completed message
-2023-09-23 17:28:04,813:INFO:Writing grades to a file...
-2023-09-23 17:28:04,814:INFO:Graded MagicEightBall.py for Josiah Gleason
-2023-09-23 17:28:04,815:WARNING:Skipping file .DS_Store for Dakota Boylan as it's not a recognized text file.
-2023-09-23 17:28:04,815:INFO:Creating chat message for open ai
-2023-09-23 17:28:04,816:INFO:Generating the chat completion message
-2023-09-23 17:28:08,392:INFO:Returning the completed message
-2023-09-23 17:28:08,392:INFO:Writing grades to a file...
-2023-09-23 17:28:08,393:INFO:Graded MagicEightBall.py for Dakota Boylan
-2023-09-23 17:28:08,394:WARNING:Skipping file .DS_Store for Kevin Reyes as it's not a recognized text file.
-2023-09-23 17:28:08,394:INFO:Creating chat message for open ai
-2023-09-23 17:28:08,394:INFO:Generating the chat completion message
-2023-09-23 17:28:12,787:INFO:Returning the completed message
-2023-09-23 17:28:12,787:INFO:Writing grades to a file...
-2023-09-23 17:28:12,788:INFO:Graded MagicEightBall.py for Kevin Reyes
-2023-09-23 17:28:12,789:WARNING:Skipping file .DS_Store for Sara Mehari as it's not a recognized text file.
-2023-09-23 17:28:12,790:INFO:Creating chat message for open ai
-2023-09-23 17:28:12,790:INFO:Generating the chat completion message
-2023-09-23 17:28:17,022:INFO:Returning the completed message
-2023-09-23 17:28:17,022:INFO:Writing grades to a file...
-2023-09-23 17:28:17,023:INFO:Graded MagicEightBall.py for Sara Mehari
-2023-09-23 17:28:17,024:WARNING:Skipping file .DS_Store for Evelyn Nguyen as it's not a recognized text file.
-2023-09-23 17:28:17,024:INFO:Creating chat message for open ai
-2023-09-23 17:28:17,024:INFO:Generating the chat completion message
-2023-09-23 17:28:22,306:INFO:Returning the completed message
-2023-09-23 17:28:22,306:INFO:Writing grades to a file...
-2023-09-23 17:28:22,307:INFO:Graded MagicEightBall.py for Evelyn Nguyen
-2023-09-23 17:28:22,308:WARNING:Skipping file .DS_Store for Matt Polovick-Moulds as it's not a recognized text file.
-2023-09-23 17:28:22,308:INFO:Creating chat message for open ai
-2023-09-23 17:28:22,308:INFO:Generating the chat completion message
-2023-09-23 17:28:27,428:INFO:Returning the completed message
-2023-09-23 17:28:27,428:INFO:Writing grades to a file...
-2023-09-23 17:28:27,429:INFO:Graded MagicEightBall.py for Matt Polovick-Moulds
-2023-09-23 17:28:27,430:WARNING:Skipping file .DS_Store for Max King as it's not a recognized text file.
-2023-09-23 17:28:27,430:WARNING:Skipping file .DS_Store for Daniel Harris as it's not a recognized text file.
-2023-09-23 17:28:27,431:INFO:Creating chat message for open ai
-2023-09-23 17:28:27,431:INFO:Generating the chat completion message
-2023-09-23 17:28:31,983:INFO:Returning the completed message
-2023-09-23 17:28:31,983:INFO:Writing grades to a file...
-2023-09-23 17:28:31,984:INFO:Graded MagicEightBall. Daniel Harris.py for Daniel Harris
-2023-09-23 17:28:31,985:WARNING:Skipping file .DS_Store for Colin Luyk as it's not a recognized text file.
-2023-09-23 17:28:31,985:INFO:Creating chat message for open ai
-2023-09-23 17:28:31,985:INFO:Generating the chat completion message
-2023-09-23 17:28:35,852:INFO:Returning the completed message
-2023-09-23 17:28:35,852:INFO:Writing grades to a file...
-2023-09-23 17:28:35,853:INFO:Graded MagicEightBall.py for Colin Luyk
-2023-09-23 17:28:43,664:INFO:Grading completed! Check downloads folder for results.
-2023-09-23 17:28:43,664:INFO:Main method executing
-2023-09-23 17:28:43,698:INFO:Select the assignments folder...
-2023-09-23 17:54:26,439:INFO:---- APPLICATION START (current date/time is: 2023-09-23 17:54:26.439641) ----
-2023-09-23 17:54:26,440:INFO:Main method executing
-2023-09-23 17:54:38,194:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
-2023-09-23 17:55:04,106:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/CIS_116_Week_4_Criteria.txt
-2023-09-23 17:55:04,107:WARNING:Skipping file .DS_Store for David VanderKolk as it's not a recognized text file.
-2023-09-23 17:55:04,108:INFO:Creating chat message for open ai
-2023-09-23 17:55:04,108:INFO:Generating the chat completion message
-2023-09-23 17:55:08,486:INFO:Returning the completed message
-2023-09-23 17:55:08,486:INFO:Writing grades to a file...
-2023-09-23 17:55:08,488:INFO:Graded MagicEightBall.py for David VanderKolk
-2023-09-23 17:55:08,489:WARNING:Skipping file .DS_Store for Garrett Dunahee as it's not a recognized text file.
-2023-09-23 17:55:08,489:WARNING:Skipping file Magic eight ball for Garrett Dunahee as it's not a recognized text file.
-2023-09-23 17:55:08,490:WARNING:Skipping file .DS_Store for Zoe Sierra as it's not a recognized text file.
-2023-09-23 17:55:08,490:INFO:Creating chat message for open ai
-2023-09-23 17:55:08,490:INFO:Generating the chat completion message
-2023-09-23 17:55:14,636:INFO:Returning the completed message
-2023-09-23 17:55:14,637:INFO:Writing grades to a file...
-2023-09-23 17:55:14,638:INFO:Graded MagicEightBall.py for Zoe Sierra
-2023-09-23 17:55:14,639:WARNING:Skipping file .DS_Store for Emily Tran as it's not a recognized text file.
-2023-09-23 17:55:14,640:INFO:Creating chat message for open ai
-2023-09-23 17:55:14,640:INFO:Generating the chat completion message
-2023-09-23 17:55:19,247:INFO:Returning the completed message
-2023-09-23 17:55:19,248:INFO:Writing grades to a file...
-2023-09-23 17:55:19,248:INFO:Graded MagicEightBall.py for Emily Tran
-2023-09-23 17:55:19,249:WARNING:Skipping file .DS_Store for Miguel Secundino as it's not a recognized text file.
-2023-09-23 17:55:19,250:INFO:Creating chat message for open ai
-2023-09-23 17:55:19,250:INFO:Generating the chat completion message
-2023-09-23 17:55:24,056:INFO:Returning the completed message
-2023-09-23 17:55:24,056:INFO:Writing grades to a file...
-2023-09-23 17:55:24,057:INFO:Graded MagicEightBall.py for Miguel Secundino
-2023-09-23 17:55:24,057:WARNING:Skipping file .DS_Store for Gavin Devries as it's not a recognized text file.
-2023-09-23 17:55:24,058:INFO:Creating chat message for open ai
-2023-09-23 17:55:24,058:INFO:Generating the chat completion message
-2023-09-23 17:55:29,535:INFO:Returning the completed message
-2023-09-23 17:55:29,535:INFO:Writing grades to a file...
-2023-09-23 17:55:29,536:INFO:Graded MagicEightBall.py for Gavin Devries
-2023-09-23 17:55:29,536:WARNING:Skipping file .DS_Store for Alan Angelino as it's not a recognized text file.
-2023-09-23 17:55:29,537:INFO:Creating chat message for open ai
-2023-09-23 17:55:29,537:INFO:Generating the chat completion message
-2023-09-23 17:55:35,324:INFO:Returning the completed message
-2023-09-23 17:55:35,324:INFO:Writing grades to a file...
-2023-09-23 17:55:35,324:INFO:Graded MagicEightball.py for Alan Angelino
-2023-09-23 17:55:35,325:WARNING:Skipping file .DS_Store for Paul Fassett as it's not a recognized text file.
-2023-09-23 17:55:35,326:INFO:Creating chat message for open ai
-2023-09-23 17:55:35,326:INFO:Generating the chat completion message
-2023-09-23 17:55:41,175:INFO:Returning the completed message
-2023-09-23 17:55:41,176:INFO:Writing grades to a file...
-2023-09-23 17:55:41,177:INFO:Graded MagicEightBall.py for Paul Fassett
-2023-09-23 17:55:41,178:WARNING:Skipping file .DS_Store for Ivan Blehinger as it's not a recognized text file.
-2023-09-23 17:55:41,178:INFO:Creating chat message for open ai
-2023-09-23 17:55:41,178:INFO:Generating the chat completion message
-2023-09-23 17:55:45,667:INFO:Returning the completed message
-2023-09-23 17:55:45,668:INFO:Writing grades to a file...
-2023-09-23 17:55:45,668:INFO:Graded magicalmeatball.py for Ivan Blehinger
-2023-09-23 17:55:45,669:WARNING:Skipping file .DS_Store for Kennedy Hamlet as it's not a recognized text file.
-2023-09-23 17:55:45,670:INFO:Creating chat message for open ai
-2023-09-23 17:55:45,670:INFO:Generating the chat completion message
-2023-09-23 17:55:49,386:INFO:Returning the completed message
-2023-09-23 17:55:49,387:INFO:Writing grades to a file...
-2023-09-23 17:55:49,387:INFO:Graded MagicEightBall.py for Kennedy Hamlet
-2023-09-23 17:55:49,389:WARNING:Skipping file .DS_Store for Mo Mohamedkheer as it's not a recognized text file.
-2023-09-23 17:55:49,389:INFO:Creating chat message for open ai
-2023-09-23 17:55:49,390:INFO:Generating the chat completion message
-2023-09-23 17:55:55,395:INFO:Returning the completed message
-2023-09-23 17:55:55,395:INFO:Writing grades to a file...
-2023-09-23 17:55:55,395:INFO:Graded MagicEightBall.py for Mo Mohamedkheer
-2023-09-23 17:55:55,396:WARNING:Skipping file .DS_Store for Jack Darter as it's not a recognized text file.
-2023-09-23 17:55:55,397:INFO:Creating chat message for open ai
-2023-09-23 17:55:55,397:INFO:Generating the chat completion message
-2023-09-23 17:56:01,265:INFO:Returning the completed message
-2023-09-23 17:56:01,265:INFO:Writing grades to a file...
-2023-09-23 17:56:01,266:INFO:Graded week4.py for Jack Darter
-2023-09-23 17:56:01,267:WARNING:Skipping file .DS_Store for Quentin Johnson as it's not a recognized text file.
-2023-09-23 17:56:01,267:INFO:Creating chat message for open ai
-2023-09-23 17:56:01,267:INFO:Generating the chat completion message
-2023-09-23 17:56:05,453:INFO:Returning the completed message
-2023-09-23 17:56:05,453:INFO:Writing grades to a file...
-2023-09-23 17:56:05,454:INFO:Graded MagicEightBall.py for Quentin Johnson
-2023-09-23 17:56:05,454:WARNING:Skipping file .DS_Store for Josiah Gleason as it's not a recognized text file.
-2023-09-23 17:56:05,455:INFO:Creating chat message for open ai
-2023-09-23 17:56:05,455:INFO:Generating the chat completion message
-2023-09-23 17:56:10,874:INFO:Returning the completed message
-2023-09-23 17:56:10,875:INFO:Writing grades to a file...
-2023-09-23 17:56:10,875:INFO:Graded MagicEightBall.py for Josiah Gleason
-2023-09-23 17:56:10,876:WARNING:Skipping file .DS_Store for Dakota Boylan as it's not a recognized text file.
-2023-09-23 17:56:10,877:INFO:Creating chat message for open ai
-2023-09-23 17:56:10,877:INFO:Generating the chat completion message
-2023-09-23 17:56:16,278:INFO:Returning the completed message
-2023-09-23 17:56:16,278:INFO:Writing grades to a file...
-2023-09-23 17:56:16,278:INFO:Graded MagicEightBall.py for Dakota Boylan
-2023-09-23 17:56:16,280:WARNING:Skipping file .DS_Store for Kevin Reyes as it's not a recognized text file.
-2023-09-23 17:56:16,280:INFO:Creating chat message for open ai
-2023-09-23 17:56:16,280:INFO:Generating the chat completion message
-2023-09-23 17:56:21,235:INFO:Returning the completed message
-2023-09-23 17:56:21,235:INFO:Writing grades to a file...
-2023-09-23 17:56:21,235:INFO:Graded MagicEightBall.py for Kevin Reyes
-2023-09-23 17:56:21,236:WARNING:Skipping file .DS_Store for Sara Mehari as it's not a recognized text file.
-2023-09-23 17:56:21,237:INFO:Creating chat message for open ai
-2023-09-23 17:56:21,237:INFO:Generating the chat completion message
-2023-09-23 17:56:24,855:INFO:Returning the completed message
-2023-09-23 17:56:24,855:INFO:Writing grades to a file...
-2023-09-23 17:56:24,856:INFO:Graded MagicEightBall.py for Sara Mehari
-2023-09-23 17:56:24,857:WARNING:Skipping file .DS_Store for Evelyn Nguyen as it's not a recognized text file.
-2023-09-23 17:56:24,857:INFO:Creating chat message for open ai
-2023-09-23 17:56:24,857:INFO:Generating the chat completion message
-2023-09-23 17:56:54,916:ERROR:An error occurred while calling the OpenAI chat completion endpoint: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=30)
-2023-09-23 17:56:54,917:INFO:Writing grades to a file...
-2023-09-23 17:56:54,919:INFO:Graded MagicEightBall.py for Evelyn Nguyen
-2023-09-23 17:56:54,920:WARNING:Skipping file .DS_Store for Matt Polovick-Moulds as it's not a recognized text file.
-2023-09-23 17:56:54,920:INFO:Creating chat message for open ai
-2023-09-23 17:56:54,920:INFO:Generating the chat completion message
-2023-09-23 17:57:00,721:INFO:Returning the completed message
-2023-09-23 17:57:00,722:INFO:Writing grades to a file...
-2023-09-23 17:57:00,722:INFO:Graded MagicEightBall.py for Matt Polovick-Moulds
-2023-09-23 17:57:00,723:WARNING:Skipping file .DS_Store for Max King as it's not a recognized text file.
-2023-09-23 17:57:00,724:WARNING:Skipping file .DS_Store for Daniel Harris as it's not a recognized text file.
-2023-09-23 17:57:00,724:INFO:Creating chat message for open ai
-2023-09-23 17:57:00,724:INFO:Generating the chat completion message
-2023-09-23 17:57:03,864:INFO:Returning the completed message
-2023-09-23 17:57:03,865:INFO:Writing grades to a file...
-2023-09-23 17:57:03,866:INFO:Graded MagicEightBall. Daniel Harris.py for Daniel Harris
-2023-09-23 17:57:03,866:WARNING:Skipping file .DS_Store for Colin Luyk as it's not a recognized text file.
-2023-09-23 17:57:03,867:INFO:Creating chat message for open ai
-2023-09-23 17:57:03,867:INFO:Generating the chat completion message
-2023-09-23 17:57:08,794:INFO:Returning the completed message
-2023-09-23 17:57:08,794:INFO:Writing grades to a file...
-2023-09-23 17:57:08,795:INFO:Graded MagicEightBall.py for Colin Luyk
-2023-09-23 17:57:44,674:INFO:Grading completed! Check downloads folder for results.
-2023-09-23 18:17:20,424:INFO:---- APPLICATION START (current date/time is: 2023-09-23 18:17:20.424738) ----
-2023-09-23 18:17:20,424:INFO:Main method executing
-2023-09-23 18:17:34,319:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
-2023-09-23 18:17:47,290:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/CIS_116_Week_4_Criteria.txt
-2023-09-23 18:17:47,291:WARNING:Skipping file .DS_Store for David VanderKolk as it's not a recognized text file.
-2023-09-23 18:17:47,292:INFO:Creating chat message for open ai
-2023-09-23 18:17:47,292:INFO:Generating the chat completion message
-2023-09-23 18:17:52,071:INFO:Returning the completed message
-2023-09-23 18:17:52,072:INFO:Writing grades to a file...
-2023-09-23 18:17:52,073:INFO:Deleting prior grading file
-2023-09-23 18:17:52,074:INFO:Graded MagicEightBall.py for David VanderKolk
-2023-09-23 18:17:52,075:INFO:Creating chat message for open ai
-2023-09-23 18:17:52,075:INFO:Generating the chat completion message
-2023-09-23 18:17:56,339:INFO:Returning the completed message
-2023-09-23 18:17:56,339:INFO:Writing grades to a file...
-2023-09-23 18:17:56,340:INFO:Graded Magic eight ball.py for Garrett Dunahee
-2023-09-23 18:17:56,340:WARNING:Skipping file .DS_Store for Garrett Dunahee as it's not a recognized text file.
-2023-09-23 18:17:56,342:WARNING:Skipping file .DS_Store for Zoe Sierra as it's not a recognized text file.
-2023-09-23 18:17:56,342:INFO:Creating chat message for open ai
-2023-09-23 18:17:56,342:INFO:Generating the chat completion message
-2023-09-23 18:18:00,989:INFO:Returning the completed message
-2023-09-23 18:18:00,989:INFO:Writing grades to a file...
-2023-09-23 18:18:00,990:INFO:Graded MagicEightBall.py for Zoe Sierra
-2023-09-23 18:18:00,991:WARNING:Skipping file .DS_Store for Emily Tran as it's not a recognized text file.
-2023-09-23 18:18:00,992:INFO:Creating chat message for open ai
-2023-09-23 18:18:00,992:INFO:Generating the chat completion message
-2023-09-23 18:18:04,749:INFO:Returning the completed message
-2023-09-23 18:18:04,749:INFO:Writing grades to a file...
-2023-09-23 18:18:04,750:INFO:Graded MagicEightBall.py for Emily Tran
-2023-09-23 18:18:04,751:WARNING:Skipping file .DS_Store for Miguel Secundino as it's not a recognized text file.
-2023-09-23 18:18:04,751:INFO:Creating chat message for open ai
-2023-09-23 18:18:04,751:INFO:Generating the chat completion message
-2023-09-23 18:18:11,499:INFO:Returning the completed message
-2023-09-23 18:18:11,499:INFO:Writing grades to a file...
-2023-09-23 18:18:11,500:INFO:Graded MagicEightBall.py for Miguel Secundino
-2023-09-23 18:18:11,500:WARNING:Skipping file .DS_Store for Gavin Devries as it's not a recognized text file.
-2023-09-23 18:18:11,500:INFO:Creating chat message for open ai
-2023-09-23 18:18:11,500:INFO:Generating the chat completion message
-2023-09-23 18:18:15,709:INFO:Returning the completed message
-2023-09-23 18:18:15,710:INFO:Writing grades to a file...
-2023-09-23 18:18:15,711:INFO:Graded MagicEightBall.py for Gavin Devries
-2023-09-23 18:18:15,711:WARNING:Skipping file .DS_Store for Alan Angelino as it's not a recognized text file.
-2023-09-23 18:18:15,711:INFO:Creating chat message for open ai
-2023-09-23 18:18:15,711:INFO:Generating the chat completion message
-2023-09-23 18:18:20,710:INFO:Returning the completed message
-2023-09-23 18:18:20,710:INFO:Writing grades to a file...
-2023-09-23 18:18:20,711:INFO:Graded MagicEightball.py for Alan Angelino
-2023-09-23 18:18:20,712:WARNING:Skipping file .DS_Store for Paul Fassett as it's not a recognized text file.
-2023-09-23 18:18:20,712:INFO:Creating chat message for open ai
-2023-09-23 18:18:20,712:INFO:Generating the chat completion message
-2023-09-23 18:18:25,137:INFO:Returning the completed message
-2023-09-23 18:18:25,137:INFO:Writing grades to a file...
-2023-09-23 18:18:25,137:INFO:Graded MagicEightBall.py for Paul Fassett
-2023-09-23 18:18:25,138:WARNING:Skipping file .DS_Store for Ivan Blehinger as it's not a recognized text file.
-2023-09-23 18:18:25,138:INFO:Creating chat message for open ai
-2023-09-23 18:18:25,138:INFO:Generating the chat completion message
-2023-09-23 18:18:30,378:INFO:Returning the completed message
-2023-09-23 18:18:30,378:INFO:Writing grades to a file...
-2023-09-23 18:18:30,379:INFO:Graded magicalmeatball.py for Ivan Blehinger
-2023-09-23 18:18:30,379:WARNING:Skipping file .DS_Store for Kennedy Hamlet as it's not a recognized text file.
-2023-09-23 18:18:30,380:INFO:Creating chat message for open ai
-2023-09-23 18:18:30,380:INFO:Generating the chat completion message
-2023-09-23 18:18:34,063:INFO:Returning the completed message
-2023-09-23 18:18:34,063:INFO:Writing grades to a file...
-2023-09-23 18:18:34,063:INFO:Graded MagicEightBall.py for Kennedy Hamlet
-2023-09-23 18:18:34,064:WARNING:Skipping file .DS_Store for Mo Mohamedkheer as it's not a recognized text file.
-2023-09-23 18:18:34,065:INFO:Creating chat message for open ai
-2023-09-23 18:18:34,065:INFO:Generating the chat completion message
-2023-09-23 18:18:38,748:INFO:Returning the completed message
-2023-09-23 18:18:38,748:INFO:Writing grades to a file...
-2023-09-23 18:18:38,749:INFO:Graded MagicEightBall.py for Mo Mohamedkheer
-2023-09-23 18:18:38,750:WARNING:Skipping file .DS_Store for Jack Darter as it's not a recognized text file.
-2023-09-23 18:18:38,750:INFO:Creating chat message for open ai
-2023-09-23 18:18:38,750:INFO:Generating the chat completion message
-2023-09-23 18:18:46,099:INFO:Returning the completed message
-2023-09-23 18:18:46,100:INFO:Writing grades to a file...
-2023-09-23 18:18:46,101:INFO:Graded week4.py for Jack Darter
-2023-09-23 18:18:46,101:WARNING:Skipping file .DS_Store for Quentin Johnson as it's not a recognized text file.
-2023-09-23 18:18:46,102:INFO:Creating chat message for open ai
-2023-09-23 18:18:46,102:INFO:Generating the chat completion message
-2023-09-23 18:18:51,574:INFO:Returning the completed message
-2023-09-23 18:18:51,574:INFO:Writing grades to a file...
-2023-09-23 18:18:51,574:INFO:Graded MagicEightBall.py for Quentin Johnson
-2023-09-23 18:18:51,575:WARNING:Skipping file .DS_Store for Josiah Gleason as it's not a recognized text file.
-2023-09-23 18:18:51,576:INFO:Creating chat message for open ai
-2023-09-23 18:18:51,576:INFO:Generating the chat completion message
-2023-09-23 18:18:56,499:INFO:Returning the completed message
-2023-09-23 18:18:56,499:INFO:Writing grades to a file...
-2023-09-23 18:18:56,500:INFO:Graded MagicEightBall.py for Josiah Gleason
-2023-09-23 18:18:56,501:WARNING:Skipping file .DS_Store for Dakota Boylan as it's not a recognized text file.
-2023-09-23 18:18:56,501:INFO:Creating chat message for open ai
-2023-09-23 18:18:56,501:INFO:Generating the chat completion message
-2023-09-23 18:19:01,548:INFO:Returning the completed message
-2023-09-23 18:19:01,549:INFO:Writing grades to a file...
-2023-09-23 18:19:01,549:INFO:Graded MagicEightBall.py for Dakota Boylan
-2023-09-23 18:19:01,550:WARNING:Skipping file .DS_Store for Kevin Reyes as it's not a recognized text file.
-2023-09-23 18:19:01,551:INFO:Creating chat message for open ai
-2023-09-23 18:19:01,551:INFO:Generating the chat completion message
-2023-09-23 18:19:06,053:INFO:Returning the completed message
-2023-09-23 18:19:06,053:INFO:Writing grades to a file...
-2023-09-23 18:19:06,053:INFO:Graded MagicEightBall.py for Kevin Reyes
-2023-09-23 18:19:06,054:WARNING:Skipping file .DS_Store for Sara Mehari as it's not a recognized text file.
-2023-09-23 18:19:06,055:INFO:Creating chat message for open ai
-2023-09-23 18:19:06,055:INFO:Generating the chat completion message
-2023-09-23 18:19:09,649:INFO:Returning the completed message
-2023-09-23 18:19:09,650:INFO:Writing grades to a file...
-2023-09-23 18:19:09,650:INFO:Graded MagicEightBall.py for Sara Mehari
-2023-09-23 18:19:09,651:WARNING:Skipping file .DS_Store for Evelyn Nguyen as it's not a recognized text file.
-2023-09-23 18:19:09,652:INFO:Creating chat message for open ai
-2023-09-23 18:19:09,652:INFO:Generating the chat completion message
-2023-09-23 18:19:15,645:INFO:Returning the completed message
-2023-09-23 18:19:15,645:INFO:Writing grades to a file...
-2023-09-23 18:19:15,645:INFO:Graded MagicEightBall.py for Evelyn Nguyen
-2023-09-23 18:19:15,646:WARNING:Skipping file .DS_Store for Matt Polovick-Moulds as it's not a recognized text file.
-2023-09-23 18:19:15,646:INFO:Creating chat message for open ai
-2023-09-23 18:19:15,646:INFO:Generating the chat completion message
-2023-09-23 18:19:20,146:INFO:Returning the completed message
-2023-09-23 18:19:20,147:INFO:Writing grades to a file...
-2023-09-23 18:19:20,147:INFO:Graded MagicEightBall.py for Matt Polovick-Moulds
-2023-09-23 18:19:20,149:WARNING:Skipping file .DS_Store for Max King as it's not a recognized text file.
-2023-09-23 18:19:20,149:WARNING:Skipping file .DS_Store for Daniel Harris as it's not a recognized text file.
-2023-09-23 18:19:20,150:INFO:Creating chat message for open ai
-2023-09-23 18:19:20,150:INFO:Generating the chat completion message
-2023-09-23 18:19:25,218:INFO:Returning the completed message
-2023-09-23 18:19:25,218:INFO:Writing grades to a file...
-2023-09-23 18:19:25,219:INFO:Graded MagicEightBall. Daniel Harris.py for Daniel Harris
-2023-09-23 18:19:25,220:WARNING:Skipping file .DS_Store for Colin Luyk as it's not a recognized text file.
-2023-09-23 18:19:25,220:INFO:Creating chat message for open ai
-2023-09-23 18:19:25,220:INFO:Generating the chat completion message
-2023-09-23 18:19:29,770:INFO:Returning the completed message
-2023-09-23 18:19:29,770:INFO:Writing grades to a file...
-2023-09-23 18:19:29,771:INFO:Graded MagicEightBall.py for Colin Luyk
-2023-09-23 18:19:31,299:INFO:Grading completed! Check downloads folder for results.
+2023-10-07 15:57:13,232:ERROR:An unexpected error occurred in main. Error: No assignments folder selected.
+2023-10-07 15:57:14,476:INFO:---- APPLICATION START (current date/time is: 2023-10-07 15:57:14.476072) ----
+2023-10-07 15:57:14,476:INFO:Main method executing
+2023-10-07 15:57:20,257:INFO:Selected folder: /Users/steven/Downloads/Quiz
+2023-10-07 15:57:37,353:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
+2023-10-07 15:57:40,831:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
+2023-10-07 15:57:40,832:INFO:Creating chat message for open ai
+2023-10-07 15:57:40,832:INFO:Generating the chat completion message
+2023-10-07 15:57:49,428:INFO:Returning the completed message
+2023-10-07 15:57:49,428:INFO:Writing grades to a file...
+2023-10-07 15:57:49,429:INFO:Deleting prior grading file
+2023-10-07 15:57:49,430:INFO:Graded Untitled 2.csv for Quiz
+2023-10-07 15:58:03,560:INFO:Grading completed! Check downloads folder for results.
+2023-10-07 15:58:03,676:INFO:---- APPLICATION START (current date/time is: 2023-10-07 15:58:03.676981) ----
+2023-10-07 15:58:03,677:INFO:Main method executing
+2023-10-07 15:58:07,778:ERROR:User input error: No assignments folder selected.
+2023-10-07 15:58:09,410:ERROR:An unexpected error occurred in main. Error: No assignments folder selected.
+2023-10-07 16:07:04,100:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:07:04.100047) ----
+2023-10-07 16:07:04,100:INFO:Main method executing
+2023-10-07 16:07:10,674:INFO:Selected folder: /Users/steven/Downloads/Quiz
+2023-10-07 16:07:49,537:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
+2023-10-07 16:07:53,056:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
+2023-10-07 16:07:53,057:INFO:Creating chat message for open ai
+2023-10-07 16:07:53,057:INFO:Generating the chat completion message
+2023-10-07 16:07:53,057:ERROR:An error occurred while calling the OpenAI chat completion endpoint: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions.
+2023-10-07 16:07:53,057:INFO:Writing grades to a file...
+2023-10-07 16:07:53,057:INFO:Deleting prior grading file
+2023-10-07 16:07:53,058:INFO:Graded Untitled 2.csv for Quiz
+2023-10-07 16:07:55,154:INFO:Grading completed! Check downloads folder for results.
+2023-10-07 16:08:38,518:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:08:38.518123) ----
+2023-10-07 16:08:38,518:INFO:Main method executing
+2023-10-07 16:08:51,651:INFO:Selected folder: /Users/steven/Downloads/Quiz
+2023-10-07 16:09:01,365:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
+2023-10-07 16:09:04,619:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
+2023-10-07 16:09:04,619:INFO:Creating chat message for open ai
+2023-10-07 16:09:11,971:INFO:Generating the chat completion message
+2023-10-07 16:11:36,809:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:11:36.809349) ----
+2023-10-07 16:11:36,809:INFO:Main method executing
+2023-10-07 16:11:43,720:INFO:Selected folder: /Users/steven/Downloads/Quiz
+2023-10-07 16:11:59,526:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
+2023-10-07 16:12:04,463:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
+2023-10-07 16:12:04,464:INFO:Creating chat message for open ai
+2023-10-07 16:12:09,699:INFO:Generating the chat completion message
+2023-10-07 16:12:49,430:INFO:Returning the completed message
+2023-10-07 16:12:49,432:INFO:Writing grades to a file...
+2023-10-07 16:12:49,432:INFO:Deleting prior grading file
+2023-10-07 16:12:49,434:INFO:Graded Untitled 2.csv for Quiz
+2023-10-07 16:12:53,243:INFO:Grading completed! Check downloads folder for results.
+2023-10-07 16:40:46,996:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:40:46.996853) ----
+2023-10-07 16:40:46,997:INFO:Main method executing
+2023-10-07 16:40:51,998:INFO:Selected folder: /Users/steven/Downloads/Quiz
+2023-10-07 16:41:02,805:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
+2023-10-07 16:41:05,595:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
+2023-10-07 16:41:05,596:INFO:Creating chat message for open ai
+2023-10-07 16:41:05,596:INFO:Generating the chat completion message
+2023-10-07 16:41:18,371:INFO:Returning the completed message
+2023-10-07 16:41:18,371:INFO:Writing grades to a file...
+2023-10-07 16:41:18,371:INFO:Deleting prior grading file
+2023-10-07 16:41:18,372:INFO:Graded Untitled 2.csv for Quiz
+2023-10-07 16:41:19,768:INFO:Grading completed! Check downloads folder for results.

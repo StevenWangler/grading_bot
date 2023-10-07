@@ -26,10 +26,15 @@ def main():
         logging.info('Main method executing')
         assignments_folder, grading_criteria_file = file_actions.prompt_user_for_input()
         grading_criteria = file_actions.read_grading_criteria(grading_criteria_file)
-        file_actions.grade_assignments(assignments_folder, grading_criteria)
-        messagebox.showinfo('Grading completed!', '''The grading has been completed!
+        extension = file_actions.get_file_extension()
+        if extension:
+            file_actions.grade_assignments(assignments_folder, grading_criteria, extension)
+            messagebox.showinfo('Grading completed!', '''The grading has been completed!
                             Please check your downloads folder for the results.''')
-        logging.info("Grading completed! Check downloads folder for results.")   
+            logging.info("Grading completed! Check downloads folder for results.")
+        else:
+            messagebox.showerror('Error!', 'You must provide a file extension. Service ending.')
+
     except Exception as ex:
         logging.error(f'An unexpected error occurred in main. Error: {ex}')
         messagebox.showerror('Error!', f'The grading process failed. Error: {ex}')

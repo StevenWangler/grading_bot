@@ -3,8 +3,9 @@ The file actions file contains various
 functions that handle/read/write files.
 '''
 import logging
+import time
 import os
-from tkinter import filedialog, messagebox
+from tkinter import filedialog, messagebox, simpledialog
 import tkinter
 from general_functions import general_functions
 from openai_actions import open_ai_api_calls
@@ -113,7 +114,7 @@ def write_results_to_file(grade_response, student_name, first_run):
         logging.error(f"An error occurred while writing to the file: {ex}")
 
 
-def grade_assignments(assignments_folder, grading_criteria, first_run=True):
+def grade_assignments(assignments_folder, grading_criteria, allowed_extensions, first_run=True):
     """
     Grades assignments based on given criteria.
 
@@ -138,7 +139,6 @@ def grade_assignments(assignments_folder, grading_criteria, first_run=True):
                     write_results_to_file("No assignment submitted", student_folder, first_run)
                     continue
 
-                allowed_extensions = ['.py']
                 for assignment_file in os.listdir(student_folder_path):
                     if not any(assignment_file.lower().endswith(ext) for ext in allowed_extensions):
                         logging.warning(f"Skipping file {assignment_file} for {student_folder} as it's not a recognized text file.")
@@ -149,7 +149,7 @@ def grade_assignments(assignments_folder, grading_criteria, first_run=True):
                             assignment_content = f.read()
 
                         message = general_functions.combine_contents_into_message(grading_criteria, assignment_content)
-                        ai_response = open_ai_api_calls.generate_chat_completion(message)
+                        ai_response = open_ai_api_calls.generate_chat_completions(message)
                         write_results_to_file(ai_response, student_folder, first_run)
                         logging.info(f"Graded {assignment_file} for {student_folder}")
                     except UnicodeDecodeError:
@@ -168,3 +168,31 @@ def grade_assignments(assignments_folder, grading_criteria, first_run=True):
     except Exception as ex:
         logging.error(f"An unexpected error occurred in grade_assignments. Error: {ex}")
         messagebox.showerror('Error!', f'The grading process failed. Error: {ex}')
+
+
+def get_file_extension():
+    """
+    Prompt the user to input a file extension using a tkinter dialog.
+
+    Returns:
+        str or None: The provided file extension (e.g., ".xlsx") 
+        or None if the user cancels the dialog.
+
+    Raises:
+        ValueError: If the provided string does not start with a 
+        dot (e.g., "xlsx" instead of ".xlsx").
+    """
+    try:
+        root = tkinter.Tk()
+        root.withdraw()  # Hide the main window
+        file_extension = simpledialog.askstring("Input", 'Please enter the file extension. (e.g., .xlsx):')
+
+        if file_extension and not file_extension.startswith('.'):
+            raise ValueError("The provided file extension should start with a dot (e.g., '.xlsx').")
+
+        root.quit()
+        root.destroy()
+        return file_extension
+    except Exception as ex:
+        logging.error(f"An unexpected error occurred in get_file_extension. Error: {ex}")
+        return None
