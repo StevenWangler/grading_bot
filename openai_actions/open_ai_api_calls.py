@@ -17,7 +17,7 @@ def generate_chat_completions(grading_criteria):
         logging.info('Generating the chat completion message')
 
         response = openai.ChatCompletion.create(
-            model="gpt-4",  # Or whichever model you prefer
+            model="gpt-4",
             messages=grading_criteria
         )
 
