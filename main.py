@@ -6,6 +6,7 @@ import logging
 from tkinter import messagebox
 from general_functions import general_functions
 from file_actions import file_actions
+from email_functions import email_delivery as email
 
 
 def main():
@@ -29,8 +30,11 @@ def main():
         extension = file_actions.get_file_extension()
         if extension:
             file_actions.grade_assignments(assignments_folder, grading_criteria, extension)
+            grading_results = file_actions.read_results_from_file()
+            email.send_email_to_user(grading_results)
             messagebox.showinfo('Grading completed!', '''The grading has been completed!
                             Please check your downloads folder for the results.''')
+
             logging.info("Grading completed! Check downloads folder for results.")
         else:
             messagebox.showerror('Error!', 'You must provide a file extension. Service ending.')

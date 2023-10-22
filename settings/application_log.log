@@ -1,60 +1,364 @@
-2023-10-07 15:57:13,232:ERROR:An unexpected error occurred in main. Error: No assignments folder selected.
-2023-10-07 15:57:14,476:INFO:---- APPLICATION START (current date/time is: 2023-10-07 15:57:14.476072) ----
-2023-10-07 15:57:14,476:INFO:Main method executing
-2023-10-07 15:57:20,257:INFO:Selected folder: /Users/steven/Downloads/Quiz
-2023-10-07 15:57:37,353:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
-2023-10-07 15:57:40,831:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
-2023-10-07 15:57:40,832:INFO:Creating chat message for open ai
-2023-10-07 15:57:40,832:INFO:Generating the chat completion message
-2023-10-07 15:57:49,428:INFO:Returning the completed message
-2023-10-07 15:57:49,428:INFO:Writing grades to a file...
-2023-10-07 15:57:49,429:INFO:Deleting prior grading file
-2023-10-07 15:57:49,430:INFO:Graded Untitled 2.csv for Quiz
-2023-10-07 15:58:03,560:INFO:Grading completed! Check downloads folder for results.
-2023-10-07 15:58:03,676:INFO:---- APPLICATION START (current date/time is: 2023-10-07 15:58:03.676981) ----
-2023-10-07 15:58:03,677:INFO:Main method executing
-2023-10-07 15:58:07,778:ERROR:User input error: No assignments folder selected.
-2023-10-07 15:58:09,410:ERROR:An unexpected error occurred in main. Error: No assignments folder selected.
-2023-10-07 16:07:04,100:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:07:04.100047) ----
-2023-10-07 16:07:04,100:INFO:Main method executing
-2023-10-07 16:07:10,674:INFO:Selected folder: /Users/steven/Downloads/Quiz
-2023-10-07 16:07:49,537:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
-2023-10-07 16:07:53,056:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
-2023-10-07 16:07:53,057:INFO:Creating chat message for open ai
-2023-10-07 16:07:53,057:INFO:Generating the chat completion message
-2023-10-07 16:07:53,057:ERROR:An error occurred while calling the OpenAI chat completion endpoint: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions.
-2023-10-07 16:07:53,057:INFO:Writing grades to a file...
-2023-10-07 16:07:53,057:INFO:Deleting prior grading file
-2023-10-07 16:07:53,058:INFO:Graded Untitled 2.csv for Quiz
-2023-10-07 16:07:55,154:INFO:Grading completed! Check downloads folder for results.
-2023-10-07 16:08:38,518:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:08:38.518123) ----
-2023-10-07 16:08:38,518:INFO:Main method executing
-2023-10-07 16:08:51,651:INFO:Selected folder: /Users/steven/Downloads/Quiz
-2023-10-07 16:09:01,365:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
-2023-10-07 16:09:04,619:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
-2023-10-07 16:09:04,619:INFO:Creating chat message for open ai
-2023-10-07 16:09:11,971:INFO:Generating the chat completion message
-2023-10-07 16:11:36,809:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:11:36.809349) ----
-2023-10-07 16:11:36,809:INFO:Main method executing
-2023-10-07 16:11:43,720:INFO:Selected folder: /Users/steven/Downloads/Quiz
-2023-10-07 16:11:59,526:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
-2023-10-07 16:12:04,463:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
-2023-10-07 16:12:04,464:INFO:Creating chat message for open ai
-2023-10-07 16:12:09,699:INFO:Generating the chat completion message
-2023-10-07 16:12:49,430:INFO:Returning the completed message
-2023-10-07 16:12:49,432:INFO:Writing grades to a file...
-2023-10-07 16:12:49,432:INFO:Deleting prior grading file
-2023-10-07 16:12:49,434:INFO:Graded Untitled 2.csv for Quiz
-2023-10-07 16:12:53,243:INFO:Grading completed! Check downloads folder for results.
-2023-10-07 16:40:46,996:INFO:---- APPLICATION START (current date/time is: 2023-10-07 16:40:46.996853) ----
-2023-10-07 16:40:46,997:INFO:Main method executing
-2023-10-07 16:40:51,998:INFO:Selected folder: /Users/steven/Downloads/Quiz
-2023-10-07 16:41:02,805:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Quiz Criteria/CIS116_Quiz_Criteria.txt
-2023-10-07 16:41:05,595:WARNING:Skipping file .DS_Store for Quiz as it's not a recognized text file.
-2023-10-07 16:41:05,596:INFO:Creating chat message for open ai
-2023-10-07 16:41:05,596:INFO:Generating the chat completion message
-2023-10-07 16:41:18,371:INFO:Returning the completed message
-2023-10-07 16:41:18,371:INFO:Writing grades to a file...
-2023-10-07 16:41:18,371:INFO:Deleting prior grading file
-2023-10-07 16:41:18,372:INFO:Graded Untitled 2.csv for Quiz
-2023-10-07 16:41:19,768:INFO:Grading completed! Check downloads folder for results.
+2023-10-22 18:45:19,920:INFO:---- APPLICATION START (current date/time is: 2023-10-22 18:45:19.920810) ----
+2023-10-22 18:45:19,921:INFO:Main method executing
+2023-10-22 18:45:35,063:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
+2023-10-22 18:45:48,909:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Programming Assignment Criteria/test.txt
+2023-10-22 18:45:51,785:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:45:51,786:INFO:Creating chat message for open ai
+2023-10-22 18:45:51,787:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:45:54,057:INFO:Returning the completed message
+2023-10-22 18:45:54,057:INFO:Writing grades to a file...
+2023-10-22 18:45:54,057:INFO:Deleting prior grading file
+2023-10-22 18:45:54,058:INFO:Graded combined assignments for David VanderKolk
+2023-10-22 18:45:54,058:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:45:54,059:INFO:Creating chat message for open ai
+2023-10-22 18:45:54,059:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:45:58,054:INFO:Returning the completed message
+2023-10-22 18:45:58,054:INFO:Writing grades to a file...
+2023-10-22 18:45:58,055:INFO:Graded combined assignments for Garrett Dunahee
+2023-10-22 18:45:58,055:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:45:58,056:WARNING:No assignment submitted for: Zoe Sierra
+2023-10-22 18:45:58,056:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:45:58,057:INFO:Creating chat message for open ai
+2023-10-22 18:45:58,057:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:02,733:INFO:Returning the completed message
+2023-10-22 18:46:02,733:INFO:Writing grades to a file...
+2023-10-22 18:46:02,734:INFO:Graded combined assignments for Emily Tran
+2023-10-22 18:46:02,734:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:02,734:WARNING:No assignment submitted for: Miguel Secundino
+2023-10-22 18:46:02,735:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:02,735:INFO:Creating chat message for open ai
+2023-10-22 18:46:02,735:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:06,304:INFO:Returning the completed message
+2023-10-22 18:46:06,304:INFO:Writing grades to a file...
+2023-10-22 18:46:06,305:INFO:Graded combined assignments for Gavin Devries
+2023-10-22 18:46:06,305:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:06,306:INFO:Creating chat message for open ai
+2023-10-22 18:46:06,307:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:17,994:INFO:Returning the completed message
+2023-10-22 18:46:17,995:INFO:Writing grades to a file...
+2023-10-22 18:46:17,995:INFO:Graded combined assignments for Alan Angelino
+2023-10-22 18:46:17,996:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:17,997:INFO:Creating chat message for open ai
+2023-10-22 18:46:17,997:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:22,061:INFO:Returning the completed message
+2023-10-22 18:46:22,061:INFO:Writing grades to a file...
+2023-10-22 18:46:22,062:INFO:Graded combined assignments for Paul Fassett
+2023-10-22 18:46:22,062:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:22,062:WARNING:No assignment submitted for: Ivan Blehinger
+2023-10-22 18:46:22,063:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:22,063:INFO:Creating chat message for open ai
+2023-10-22 18:46:22,063:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:24,663:INFO:Returning the completed message
+2023-10-22 18:46:24,663:INFO:Writing grades to a file...
+2023-10-22 18:46:24,664:INFO:Graded combined assignments for Kennedy Hamlet
+2023-10-22 18:46:24,665:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:24,665:INFO:Creating chat message for open ai
+2023-10-22 18:46:24,666:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:26,736:INFO:Returning the completed message
+2023-10-22 18:46:26,737:INFO:Writing grades to a file...
+2023-10-22 18:46:26,737:INFO:Graded combined assignments for Mo Mohamedkheer
+2023-10-22 18:46:26,738:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:26,739:INFO:Creating chat message for open ai
+2023-10-22 18:46:26,739:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:28,546:INFO:Returning the completed message
+2023-10-22 18:46:28,546:INFO:Writing grades to a file...
+2023-10-22 18:46:28,547:INFO:Graded combined assignments for Jack Darter
+2023-10-22 18:46:28,547:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:28,548:INFO:Creating chat message for open ai
+2023-10-22 18:46:28,548:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:30,737:INFO:Returning the completed message
+2023-10-22 18:46:30,737:INFO:Writing grades to a file...
+2023-10-22 18:46:30,738:INFO:Graded combined assignments for Quentin Johnson
+2023-10-22 18:46:30,738:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:30,739:INFO:Creating chat message for open ai
+2023-10-22 18:46:30,739:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:32,867:INFO:Returning the completed message
+2023-10-22 18:46:32,868:INFO:Writing grades to a file...
+2023-10-22 18:46:32,868:INFO:Graded combined assignments for Josiah Gleason
+2023-10-22 18:46:32,869:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:32,869:WARNING:No assignment submitted for: Dakota Boylan
+2023-10-22 18:46:32,869:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:32,869:WARNING:No assignment submitted for: Kevin Reyes
+2023-10-22 18:46:32,869:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:32,870:INFO:Creating chat message for open ai
+2023-10-22 18:46:32,870:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:35,114:INFO:Returning the completed message
+2023-10-22 18:46:35,114:INFO:Writing grades to a file...
+2023-10-22 18:46:35,115:INFO:Graded combined assignments for Sara Mehari
+2023-10-22 18:46:35,115:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:35,116:INFO:Creating chat message for open ai
+2023-10-22 18:46:35,116:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:37,087:INFO:Returning the completed message
+2023-10-22 18:46:37,087:INFO:Writing grades to a file...
+2023-10-22 18:46:37,088:INFO:Graded combined assignments for Evelyn Nguyen
+2023-10-22 18:46:37,088:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:37,089:INFO:Creating chat message for open ai
+2023-10-22 18:46:37,089:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:39,246:INFO:Returning the completed message
+2023-10-22 18:46:39,246:INFO:Writing grades to a file...
+2023-10-22 18:46:39,247:INFO:Graded combined assignments for Matt Polovick-Moulds
+2023-10-22 18:46:39,247:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:39,248:INFO:Creating chat message for open ai
+2023-10-22 18:46:39,248:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:40,945:INFO:Returning the completed message
+2023-10-22 18:46:40,945:INFO:Writing grades to a file...
+2023-10-22 18:46:40,946:INFO:Graded combined assignments for Max King
+2023-10-22 18:46:40,946:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:40,947:INFO:Creating chat message for open ai
+2023-10-22 18:46:40,947:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:41,053:INFO:error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-4 in organization org-4Ls3mEneqxGJdyZMeZOyGklx on tokens per min. Limit: 10000 / min. Please try again in 6ms. Contact us through our help center at help.openai.com if you continue to have issues.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2023-10-22 18:46:41,054:ERROR:An error occurred while calling the OpenAI chat completion endpoint: Rate limit reached for gpt-4 in organization org-4Ls3mEneqxGJdyZMeZOyGklx on tokens per min. Limit: 10000 / min. Please try again in 6ms. Contact us through our help center at help.openai.com if you continue to have issues.
+2023-10-22 18:46:41,054:INFO:Rate limit reached for model gpt-4. Retrying with a different model...
+2023-10-22 18:46:41,054:INFO:Generating the chat completion message using model gpt-3.5-turbo-16k
+2023-10-22 18:46:47,536:INFO:Returning the completed message
+2023-10-22 18:46:47,536:INFO:Writing grades to a file...
+2023-10-22 18:46:47,537:INFO:Graded combined assignments for Daniel Harris
+2023-10-22 18:46:47,537:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 18:46:47,538:INFO:Creating chat message for open ai
+2023-10-22 18:46:47,539:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 18:46:50,279:INFO:Returning the completed message
+2023-10-22 18:46:50,280:INFO:Writing grades to a file...
+2023-10-22 18:46:50,281:INFO:Graded combined assignments for Colin Luyk
+2023-10-22 18:47:24,519:INFO:Sending our grading results to StevenWangler@grcc.edu
+2023-10-22 18:47:26,088:INFO:Message delivered to StevenWangler@grcc.edu
+2023-10-22 18:47:26,140:INFO:Grading completed! Check downloads folder for results.
+2023-10-22 19:24:36,322:INFO:---- APPLICATION START (current date/time is: 2023-10-22 19:24:36.322654) ----
+2023-10-22 19:24:36,322:INFO:Main method executing
+2023-10-22 19:25:12,554:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
+2023-10-22 19:25:23,155:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Programming Assignment Criteria/test.txt
+2023-10-22 19:25:25,960:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:25,961:INFO:Creating chat message for open ai
+2023-10-22 19:25:25,961:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:25:31,950:INFO:Returning the completed message
+2023-10-22 19:25:31,950:INFO:Writing grades to a file...
+2023-10-22 19:25:31,951:INFO:Deleting prior grading file
+2023-10-22 19:25:31,952:INFO:Graded combined assignments for David VanderKolk
+2023-10-22 19:25:31,952:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:31,953:INFO:Creating chat message for open ai
+2023-10-22 19:25:31,953:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:25:40,602:INFO:Returning the completed message
+2023-10-22 19:25:40,602:INFO:Writing grades to a file...
+2023-10-22 19:25:40,603:INFO:Graded combined assignments for Garrett Dunahee
+2023-10-22 19:25:40,604:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:40,604:WARNING:No assignment submitted for: Zoe Sierra
+2023-10-22 19:25:40,605:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:40,606:INFO:Creating chat message for open ai
+2023-10-22 19:25:40,606:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:25:44,102:INFO:Returning the completed message
+2023-10-22 19:25:44,102:INFO:Writing grades to a file...
+2023-10-22 19:25:44,103:INFO:Graded combined assignments for Emily Tran
+2023-10-22 19:25:44,103:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:44,103:WARNING:No assignment submitted for: Miguel Secundino
+2023-10-22 19:25:44,103:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:44,104:INFO:Creating chat message for open ai
+2023-10-22 19:25:44,104:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:25:46,736:INFO:Returning the completed message
+2023-10-22 19:25:46,736:INFO:Writing grades to a file...
+2023-10-22 19:25:46,737:INFO:Graded combined assignments for Gavin Devries
+2023-10-22 19:25:46,737:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:46,739:INFO:Creating chat message for open ai
+2023-10-22 19:25:46,739:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:25:57,596:INFO:Returning the completed message
+2023-10-22 19:25:57,596:INFO:Writing grades to a file...
+2023-10-22 19:25:57,597:INFO:Graded combined assignments for Alan Angelino
+2023-10-22 19:25:57,597:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:25:57,598:INFO:Creating chat message for open ai
+2023-10-22 19:25:57,599:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:01,257:INFO:Returning the completed message
+2023-10-22 19:26:01,258:INFO:Writing grades to a file...
+2023-10-22 19:26:01,258:INFO:Graded combined assignments for Paul Fassett
+2023-10-22 19:26:01,259:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:01,259:WARNING:No assignment submitted for: Ivan Blehinger
+2023-10-22 19:26:01,260:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:01,260:INFO:Creating chat message for open ai
+2023-10-22 19:26:01,261:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:04,851:INFO:Returning the completed message
+2023-10-22 19:26:04,851:INFO:Writing grades to a file...
+2023-10-22 19:26:04,852:INFO:Graded combined assignments for Kennedy Hamlet
+2023-10-22 19:26:04,853:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:04,854:INFO:Creating chat message for open ai
+2023-10-22 19:26:04,854:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:11,128:INFO:Returning the completed message
+2023-10-22 19:26:11,128:INFO:Writing grades to a file...
+2023-10-22 19:26:11,129:INFO:Graded combined assignments for Mo Mohamedkheer
+2023-10-22 19:26:11,129:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:11,130:INFO:Creating chat message for open ai
+2023-10-22 19:26:11,130:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:15,150:INFO:Returning the completed message
+2023-10-22 19:26:15,150:INFO:Writing grades to a file...
+2023-10-22 19:26:15,151:INFO:Graded combined assignments for Jack Darter
+2023-10-22 19:26:15,151:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:15,152:INFO:Creating chat message for open ai
+2023-10-22 19:26:15,152:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:21,023:INFO:Returning the completed message
+2023-10-22 19:26:21,024:INFO:Writing grades to a file...
+2023-10-22 19:26:21,025:INFO:Graded combined assignments for Quentin Johnson
+2023-10-22 19:26:21,025:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:21,026:INFO:Creating chat message for open ai
+2023-10-22 19:26:21,026:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:24,330:INFO:Returning the completed message
+2023-10-22 19:26:24,330:INFO:Writing grades to a file...
+2023-10-22 19:26:24,331:INFO:Graded combined assignments for Josiah Gleason
+2023-10-22 19:26:24,333:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:24,333:WARNING:No assignment submitted for: Dakota Boylan
+2023-10-22 19:26:24,333:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:24,333:WARNING:No assignment submitted for: Kevin Reyes
+2023-10-22 19:26:24,333:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:24,334:INFO:Creating chat message for open ai
+2023-10-22 19:26:24,334:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:28,338:INFO:Returning the completed message
+2023-10-22 19:26:28,338:INFO:Writing grades to a file...
+2023-10-22 19:26:28,339:INFO:Graded combined assignments for Sara Mehari
+2023-10-22 19:26:28,339:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:28,341:INFO:Creating chat message for open ai
+2023-10-22 19:26:28,341:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:30,709:INFO:Returning the completed message
+2023-10-22 19:26:30,710:INFO:Writing grades to a file...
+2023-10-22 19:26:30,710:INFO:Graded combined assignments for Evelyn Nguyen
+2023-10-22 19:26:30,711:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:30,712:INFO:Creating chat message for open ai
+2023-10-22 19:26:30,712:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:34,721:INFO:Returning the completed message
+2023-10-22 19:26:34,722:INFO:Writing grades to a file...
+2023-10-22 19:26:34,723:INFO:Graded combined assignments for Matt Polovick-Moulds
+2023-10-22 19:26:34,723:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:34,724:INFO:Creating chat message for open ai
+2023-10-22 19:26:34,724:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:37,246:INFO:Returning the completed message
+2023-10-22 19:26:37,246:INFO:Writing grades to a file...
+2023-10-22 19:26:37,246:INFO:Graded combined assignments for Max King
+2023-10-22 19:26:37,247:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:37,248:INFO:Creating chat message for open ai
+2023-10-22 19:26:37,248:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:43,487:INFO:Returning the completed message
+2023-10-22 19:26:43,488:INFO:Writing grades to a file...
+2023-10-22 19:26:43,489:INFO:Graded combined assignments for Daniel Harris
+2023-10-22 19:26:43,489:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:26:43,490:INFO:Creating chat message for open ai
+2023-10-22 19:26:43,490:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:26:47,577:INFO:Returning the completed message
+2023-10-22 19:26:47,577:INFO:Writing grades to a file...
+2023-10-22 19:26:47,578:INFO:Graded combined assignments for Colin Luyk
+2023-10-22 19:26:47,579:INFO:Sending our grading results to StevenWangler@grcc.edu
+2023-10-22 19:26:49,160:INFO:Message delivered to StevenWangler@grcc.edu
+2023-10-22 19:26:57,298:INFO:Grading completed! Check downloads folder for results.
+2023-10-22 19:30:01,263:INFO:---- APPLICATION START (current date/time is: 2023-10-22 19:30:01.263642) ----
+2023-10-22 19:30:01,263:INFO:Main method executing
+2023-10-22 19:30:10,094:INFO:Selected folder: /Users/steven/Documents/GRCC/Courses/F23 - CIS116
+2023-10-22 19:30:20,254:INFO:Selected file: /Users/steven/Documents/GRCC/Grading Criteria/CIS 116/Programming Assignment Criteria/test.txt
+2023-10-22 19:30:23,798:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:23,799:INFO:Creating chat message for open ai
+2023-10-22 19:30:23,799:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:30:29,896:INFO:Returning the completed message
+2023-10-22 19:30:29,896:INFO:Writing grades to a file...
+2023-10-22 19:30:29,896:INFO:Deleting prior grading file
+2023-10-22 19:30:29,898:INFO:Graded combined assignments for David VanderKolk
+2023-10-22 19:30:29,898:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:29,899:INFO:Creating chat message for open ai
+2023-10-22 19:30:29,899:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:30:35,468:INFO:Returning the completed message
+2023-10-22 19:30:35,468:INFO:Writing grades to a file...
+2023-10-22 19:30:35,469:INFO:Graded combined assignments for Garrett Dunahee
+2023-10-22 19:30:35,471:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:35,471:WARNING:No assignment submitted for: Zoe Sierra
+2023-10-22 19:30:35,471:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:35,472:INFO:Creating chat message for open ai
+2023-10-22 19:30:35,472:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:30:39,325:INFO:Returning the completed message
+2023-10-22 19:30:39,326:INFO:Writing grades to a file...
+2023-10-22 19:30:39,327:INFO:Graded combined assignments for Emily Tran
+2023-10-22 19:30:39,327:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:39,327:WARNING:No assignment submitted for: Miguel Secundino
+2023-10-22 19:30:39,328:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:39,329:INFO:Creating chat message for open ai
+2023-10-22 19:30:39,329:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:30:47,108:INFO:Returning the completed message
+2023-10-22 19:30:47,109:INFO:Writing grades to a file...
+2023-10-22 19:30:47,109:INFO:Graded combined assignments for Gavin Devries
+2023-10-22 19:30:47,110:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:47,111:INFO:Creating chat message for open ai
+2023-10-22 19:30:47,111:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:30:59,175:INFO:Returning the completed message
+2023-10-22 19:30:59,177:INFO:Writing grades to a file...
+2023-10-22 19:30:59,178:INFO:Graded combined assignments for Alan Angelino
+2023-10-22 19:30:59,179:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:30:59,179:INFO:Creating chat message for open ai
+2023-10-22 19:30:59,180:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:04,715:INFO:Returning the completed message
+2023-10-22 19:31:04,715:INFO:Writing grades to a file...
+2023-10-22 19:31:04,716:INFO:Graded combined assignments for Paul Fassett
+2023-10-22 19:31:04,717:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:04,717:WARNING:No assignment submitted for: Ivan Blehinger
+2023-10-22 19:31:04,718:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:04,719:INFO:Creating chat message for open ai
+2023-10-22 19:31:04,719:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:07,071:INFO:Returning the completed message
+2023-10-22 19:31:07,072:INFO:Writing grades to a file...
+2023-10-22 19:31:07,072:INFO:Graded combined assignments for Kennedy Hamlet
+2023-10-22 19:31:07,073:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:07,074:INFO:Creating chat message for open ai
+2023-10-22 19:31:07,074:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:12,876:INFO:Returning the completed message
+2023-10-22 19:31:12,876:INFO:Writing grades to a file...
+2023-10-22 19:31:12,877:INFO:Graded combined assignments for Mo Mohamedkheer
+2023-10-22 19:31:12,877:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:12,878:INFO:Creating chat message for open ai
+2023-10-22 19:31:12,878:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:16,112:INFO:Returning the completed message
+2023-10-22 19:31:16,113:INFO:Writing grades to a file...
+2023-10-22 19:31:16,114:INFO:Graded combined assignments for Jack Darter
+2023-10-22 19:31:16,114:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:16,115:INFO:Creating chat message for open ai
+2023-10-22 19:31:16,116:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:21,656:INFO:Returning the completed message
+2023-10-22 19:31:21,656:INFO:Writing grades to a file...
+2023-10-22 19:31:21,657:INFO:Graded combined assignments for Quentin Johnson
+2023-10-22 19:31:21,657:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:21,658:INFO:Creating chat message for open ai
+2023-10-22 19:31:21,659:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:24,905:INFO:Returning the completed message
+2023-10-22 19:31:24,906:INFO:Writing grades to a file...
+2023-10-22 19:31:24,906:INFO:Graded combined assignments for Josiah Gleason
+2023-10-22 19:31:24,907:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:24,907:WARNING:No assignment submitted for: Dakota Boylan
+2023-10-22 19:31:24,908:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:24,908:WARNING:No assignment submitted for: Kevin Reyes
+2023-10-22 19:31:24,908:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:24,909:INFO:Creating chat message for open ai
+2023-10-22 19:31:24,909:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:29,315:INFO:Returning the completed message
+2023-10-22 19:31:29,315:INFO:Writing grades to a file...
+2023-10-22 19:31:29,316:INFO:Graded combined assignments for Sara Mehari
+2023-10-22 19:31:29,316:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:29,317:INFO:Creating chat message for open ai
+2023-10-22 19:31:29,318:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:33,300:INFO:Returning the completed message
+2023-10-22 19:31:33,300:INFO:Writing grades to a file...
+2023-10-22 19:31:33,301:INFO:Graded combined assignments for Evelyn Nguyen
+2023-10-22 19:31:33,301:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:33,302:INFO:Creating chat message for open ai
+2023-10-22 19:31:33,302:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:45,069:INFO:Returning the completed message
+2023-10-22 19:31:45,070:INFO:Writing grades to a file...
+2023-10-22 19:31:45,071:INFO:Graded combined assignments for Matt Polovick-Moulds
+2023-10-22 19:31:45,072:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:45,073:INFO:Creating chat message for open ai
+2023-10-22 19:31:45,073:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:48,853:INFO:Returning the completed message
+2023-10-22 19:31:48,853:INFO:Writing grades to a file...
+2023-10-22 19:31:48,854:INFO:Graded combined assignments for Max King
+2023-10-22 19:31:48,854:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:48,856:INFO:Creating chat message for open ai
+2023-10-22 19:31:48,856:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:55,302:INFO:Returning the completed message
+2023-10-22 19:31:55,302:INFO:Writing grades to a file...
+2023-10-22 19:31:55,303:INFO:Graded combined assignments for Daniel Harris
+2023-10-22 19:31:55,303:WARNING:Skipping file .DS_Store as it's not a recognized text file.
+2023-10-22 19:31:55,304:INFO:Creating chat message for open ai
+2023-10-22 19:31:55,304:INFO:Generating the chat completion message using model gpt-4
+2023-10-22 19:31:59,500:INFO:Returning the completed message
+2023-10-22 19:31:59,501:INFO:Writing grades to a file...
+2023-10-22 19:31:59,501:INFO:Graded combined assignments for Colin Luyk
+2023-10-22 19:31:59,502:INFO:Sending our grading results to StevenWangler@grcc.edu
+2023-10-22 19:32:00,948:INFO:Message delivered to StevenWangler@grcc.edu
+2023-10-22 19:32:07,851:INFO:Grading completed! Check downloads folder for results.
